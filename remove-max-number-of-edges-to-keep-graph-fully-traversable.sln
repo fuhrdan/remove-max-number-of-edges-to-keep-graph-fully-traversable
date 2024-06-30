@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "remove-max-number-of-edges-to-keep-graph-fully-traversable", "remove-max-number-of-edges-to-keep-graph-fully-traversable.csproj", "{EB43803E-0686-463B-80A1-3F934D9E93EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB43803E-0686-463B-80A1-3F934D9E93EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB43803E-0686-463B-80A1-3F934D9E93EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB43803E-0686-463B-80A1-3F934D9E93EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB43803E-0686-463B-80A1-3F934D9E93EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFED7C59-04E7-42B7-AC22-66ED2A72DC15}
+	EndGlobalSection
+EndGlobal
